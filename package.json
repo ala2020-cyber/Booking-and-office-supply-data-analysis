@@ -1,0 +1,16 @@
+{
+  "name": "sraping",
+  "version": "1.0.0",
+  "description": "scrapping des prix des fournisseurs ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scrapeBOOKING.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ala Hani DEBBABI",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "puppeteer": "^22.10.0"
+  }
+}
