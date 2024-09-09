@@ -1,3 +1,3 @@
-# Booking-office-supply-data-analysis
+# Booking-and-office-supply-data-analysis
 
 ![solution](./Solution-with-details.png)
